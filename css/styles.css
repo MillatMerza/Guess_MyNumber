@@ -88,9 +88,9 @@ section .air.air4 {
   background-color: #fff;
   border-radius: 10px;
   padding: 1.5rem;
-  margin: 20rem 10rem;
+  margin: 20rem ;
   margin-top: 10rem;
-  width: 100%;
+  width: 90%;
 }
 @media screen and (width>900px) {
   .box {
@@ -111,11 +111,11 @@ h1 {
 }
 .top span {
   font-weight: 500;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 /* middle */
 .middle {
-  padding: 2rem;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -138,7 +138,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
   padding: 2rem 1rem;
   width: 100%;
 }
@@ -146,7 +146,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-radius: 1rem;
+ 
 }
 .decress,
 .incress {
@@ -169,26 +169,26 @@ h1 {
   width: 5rem;
 }
 .guess_part {
-  width: 50%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
 }
 .guess_part span {
-  font-size: 1.6rem;
+  font-size: 1rem;
   padding: 0.3rem 1rem;
 }
 .score_part {
   max-width: 100%;
 }
 .score_part h1 {
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   margin-bottom: 1rem;
 }
 .score_part h2,
 .score_part span {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 500;
   width: 15rem;
 }
@@ -201,9 +201,9 @@ h1 {
 /* buttonnn */
 /* From Uiverse.io by elijahgummer */
 .down .btn {
-  padding: 0.475em 3em;
+  padding: 0.475em 1em;
   font-weight: 600;
-  width: 100%;
+  width: 90%;
   display: flex;
   justify-content: center;
 }
